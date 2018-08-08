@@ -21,7 +21,7 @@ title_separator          : "-"
 name                     : "Akbar Fadiansyah"
 description              : "This website tests the hypothesis whether females are more likely to own an iPhone than males."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : /home  # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "kbar Fadiansyah"
+  name             : "Akbar Fadiansyah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Just another student trying to buld a website."
   location         : "Somewhere"
@@ -275,3 +275,5 @@ defaults:
     values:
       layout: single
       author_profile: false
+      read_time: true
+      share: true
