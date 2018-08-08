@@ -1,5 +1,5 @@
 ---
-permalink: /it-u4o1/credits
+permalink: /credits
 title: "Credits and references"
 # last_modified_at: 
 excerpt: "I want to thank all of these sources for making this work possible."

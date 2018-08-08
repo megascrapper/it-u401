@@ -1,5 +1,5 @@
 ---
-permalink: /it-u4o1/conclusion
+permalink: /conclusion
 title: "Conclusion"
 # last_modified_at: 
 excerpt: "Introduction about the survey"

@@ -1,5 +1,5 @@
 ---
-permalink: /it-u4o1/home
+permalink: /home
 title: "Mobile phones and gender"
 # last_modified_at: 
 header:
