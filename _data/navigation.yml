@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "home"
-    url: /it-u4o1/home
+    url: /home
   - title: "About"
     url: /about/
   - title: "Privacy"
     url: /privacy-policy/
   - title: "Introduction"
-    url: /it-u4o1/intro
+    url: /intro
   - title: "Findings"
-    url: /it-u4o1/findings
+    url: /findings
   - title: "Conclusion"
-    url: /it-u4o1/conclusion
+    url: /conclusion
   - title: "Credits and references"
-    url: /it-u4o1/credits
+    url: /credits
   - title: "Feedback"
     url: /it-u4o1/feedback
 
@@ -22,13 +22,13 @@ it-u4o1:
     url: /it-u4o1/
     children:
       - title: "Introduction"
-        url: /it-u4o1/intro
+        url: /intro
       - title: "Findings"
-        url: /it-u4o1/findings
+        url: /findings
       - title: "Conclusion"
-        url: /it-u4o1/conclusion
+        url: /conclusion
       - title: "Credits and references"
-        url: /it-u4o1/credits
+        url: /credits
       - title: "Feedback"
-        url: /it-u4o1/feedback
+        url: /feedback
     
