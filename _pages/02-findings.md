@@ -1,5 +1,5 @@
 ---
-permalink: /findings
+permalink: /findings/
 title: "Findings"
 # last_modified_at: 
 excerpt: "Introduction about the survey"
