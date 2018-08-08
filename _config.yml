@@ -21,13 +21,13 @@ title_separator          : "-"
 name                     : "Akbar Fadiansyah"
 description              : "This website tests the hypothesis whether females are more likely to own an iPhone than males."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /home  # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : megascrapper/mobile-phones-and-gender # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -39,7 +39,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  branch                 : "master"
   commitMessage          : # "New comment."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Akbar Fadiansyah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Just another student trying to buld a website."
+  bio              : "Just another student trying to build a website."
   location         : "Somewhere"
   email            :
   uri              :
