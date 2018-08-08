@@ -1,34 +1,12 @@
 # main links
 main:
-  - title: "home"
-    url: /home
-  - title: "About"
-    url: /about/
-  - title: "Privacy"
-    url: /privacy-policy/
-  - title: "Introduction"
-    url: /intro
-  - title: "Findings"
-    url: /findings
-  - title: "Conclusion"
-    url: /conclusion
-  - title: "Credits and references"
-    url: /credits
-  - title: "Feedback"
-    url: /it-u4o1/feedback
-
-it-u4o1:
-  - title: "Mobile phones and gender"
-    url: /it-u4o1/
-    children:
-      - title: "Introduction"
-        url: /intro
-      - title: "Findings"
-        url: /findings
-      - title: "Conclusion"
-        url: /conclusion
-      - title: "Credits and references"
-        url: /credits
-      - title: "Feedback"
-        url: /feedback
-    
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
