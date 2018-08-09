@@ -7,19 +7,17 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://www.geo.tv/assets/uploads/updates/2017-07-31/151772_8918733_updates.jpg
   cta_label: "Get Started"
-  cta_url: "/it-u4o1#intro/"
+  cta_url: "/#intro"
   caption: "[Image source](https://www.geo.tv/latest/151772-mobile-phone-users-cross-1405-million-in-pakistan)"
-excerpt: "Different genders prefer different smartphone OS and brands. But how do they differ from each other? You'll find out more on this site."
+excerpt: "his website tests the hypothesis whether females are more likely to own an iPhone than males."
 layout: splash
-intro: 
-  - excerpt: "Welcome to my website for my IT outcome about mobile phones and gender. Here you will find the full report and more."
 feature_row:
   - image_path: https://i-lab.harvard.edu/wp-content/uploads/Introduction-to-VIP.png
     alt: "Splash image for introduction"
     image_caption: "[Image source](https://steemit.com/steemit/@polaleye50/how-to-do-introduce-yourself-properly-to-steemit-community)"
     title: "Introduction"
     excerpt: "This page contains the introduction about the research, the hypothesis and the testing methodology."
-    url: "/it-u4o1/intro"
+    url: "/intro/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2016/05/03112908/micro-management-magnifying-glass-feat.jpg
@@ -27,7 +25,7 @@ feature_row:
     alt: "Splash image for findings"
     title: "Findings"
     excerpt: "Here is where the results from the data sources are being discussed."
-    url: "/it-u4o1/findings"
+    url: "/findings/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: https://previews.123rf.com/images/stanciuc/stanciuc1503/stanciuc150300719/37882518-recycled-paper-note-pinned-on-cork-board-what-s-the-conclusion-message-concept-image.jpg
@@ -35,7 +33,7 @@ feature_row:
     alt: "Splash image for conclusion"
     title: "Conclusion"
     excerpt: "So, what does all of the findings tell us about the hypothesis?"
-    url: "/it-u4o1/conclusion"
+    url: "/conclusion/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
@@ -44,7 +42,7 @@ feature_row2:
     alt: "Splash image for credits"
     title: "References and credits"
     excerpt: "Here is the external sources that I use for this research, as well as some external links that may be useful for everyone."
-    url: "/it-u4o1/credits"
+    url: "/credits/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -53,7 +51,7 @@ feature_row3:
     alt: "Splash image for feedback"
     title: "Feedback"
     excerpt: "Let me know what you think!"
-    url: "/it-u4o1/feedback"
+    url: "/feedback/"
     btn_label: "Give Feedback"
     btn_class: "btn--primary"
 feature_row4:
@@ -69,8 +67,6 @@ feature_row5:
     btn_label: "Privacy Policy"
     btn_class: "btn--primary"
 ---
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
