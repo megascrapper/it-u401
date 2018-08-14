@@ -54,18 +54,6 @@ feature_row3:
     url: "/feedback/"
     btn_label: "Give Feedback"
     btn_class: "btn--primary"
-feature_row4:
-    title: "About"
-    excerpt: "About me, the website and my journey on making this."
-    url: "/about/"
-    btn_label: "About Me"
-    btn_class: "btn--primary"
-feature_row5:
-    title: "Privacy policy"
-    excerpt: "What are the kinds of data this site is collecting? Find out here."
-    url: "/privacy-policy/"
-    btn_label: "Privacy Policy"
-    btn_class: "btn--primary"
 ---
 {% include feature_row %}
 
@@ -73,6 +61,3 @@ feature_row5:
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="left" %}
-
-{% include feature_row id="feature_row5" type="left" %}
