@@ -7,9 +7,9 @@ sidebar:
     nav: "it-u4o1"
 toc: true
 ---
-{% include figure image_path="https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive/_jcr_content/par/textimage/image.img.jpg/1517604468243.jpg" alt="Image source: https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive.html" %} 
+{% include figure image_path="https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive/_jcr_content/par/textimage/image.img.jpg/1517604468243.jpg" alt="People sitting in line, using their phones" caption="Image source: https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive.html" %} 
 
-AAndroid vs iOS, they're one of the biggest battles of the 21st century. You may notice this daily by people arguing which phone is the best. I have wondered, however, does this split the same across different genders? Does one gender prefer one phone more than another? I predicted that if you are female, then you are more likely to own an iPhone. I also wondered whether the type of phone used is related to the tech savviness of the owner. 
+Android vs iOS, they're one of the biggest battles of the 21st century. You may notice this daily by people arguing which phone is the best. I have wondered, however, does this split the same across different genders? Does one gender prefer one phone more than another? I predicted that if you are female, then you are more likely to own an iPhone. I also wondered whether the type of phone used is related to the tech savviness of the owner. 
 
 I’m interested in the topic because, from my observation, I noticed that females tend to use iOS devices than males, whom I observed tend to use Android more. I am also interested whether this also has anything to do with the tech savviness of the user, and whether men are better at technology than women. But all of those are just my observations, I need some data so I can say something for sure. 
 
@@ -34,15 +34,15 @@ There are some constraints and limitations while doing this research. This mainl
 * **Level of expertise:** While every effort has been made to give the best analysis possible, please note that I am not an expert in the field. 
 
 ## Methodology
-For this research, I collected the data from primary and secondary sources. Primary data is collected through surveys while secondary data is collected from datasets found on the internet. 
+For this research, I collected the data from primary and secondary sources. Primary data is collected through surveys while secondary dta is collected from datasets found on the internet. 
 
 The survey will cover students within Wellington Secondary College, which are aged between 12 to 20. It is likely that the students live in south-eastern Melbourne. The survey will not cover the following: 
 * Students outside Wellington Secondary College
 * People who are above 18 years old
 * Laptops, desktops, tablets or any devices that aren’t a smartphone
 
-The survey can either be done online using Google Forms or on paper, whichever the participant prefers. The survey is available in the [credits and references](/credits/) page. 
+The survey can either be done online using Google Forms or on paper, whichever the participant prefers. You can view the survey [here.](https://drive.google.com/drive/folders/1cDfRYZS7AWSDVG41EoVjWjDL_klmx55n?usp=sharing)
 
 For secondary data, care has been taken to ensure the accuracy and timeliness of the data. Due to the rapidly changing nature of the data, I only consider datasets from the past five years, as anything older than that is not very relevant to today's situations. 
 
-To see all of the secondary data, see the [credits and references](/credits/) page. 
+To see all of the secondary data, see the [credits and references](/mobile-phones-and-gender/credits/) page. 

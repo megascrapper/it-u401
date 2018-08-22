@@ -24,8 +24,11 @@ toc: true
 
 * Williams, R. (2015). Women more likely to own an iPhone than men. [online] Telegraph.co.uk. Available at: [https://www.telegraph.co.uk/technology/apple/iphone/11335574/Women-more-likely-to-own-an-iPhone-than-men.html](https://www.telegraph.co.uk/technology/apple/iphone/11335574/Women-more-likely-to-own-an-iPhone-than-men.html) [Accessed 30 May 2018].
 
-## Credits
-### Resources that proved to be useful:
-* Consent form: [https://staff.unimelb.edu.au/research/ethics-integrity/human-ethics/forms-templates-examples](https://staff.unimelb.edu.au/research/ethics-integrity/human-ethics/forms-templates-examples) 
+## Additional resources and external links
+### Consent form
+Every participant of the survey is given a consent form or page, where participants were given information about the survey and research, and whether participants wanted to proceed with the survey or not. The information page and consent form is a simplified version of the consent forms by University of Melbourne, available at 
+[https://staff.unimelb.edu.au/research/ethics-integrity/human-ethics/forms-templates-examples](https://staff.unimelb.edu.au/research/ethics-integrity/human-ethics/forms-templates-examples) 
 
-* Data visualisation: [http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/](http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/)
+### Data visualisation
+The following site gives a good inspiration on data visualisation used on this site.
+[http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/](http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/)
