@@ -36,10 +36,12 @@ There are some constraints and limitations while doing this research. This mainl
 ## Methodology
 For this research, I collected the data from primary and secondary sources. Primary data is collected through surveys while secondary data is collected from datasets found on the internet. 
 
-The survey will cover students within Wellington Secondary College, which are aged between 12 to 20. It is likely that the students live in south eastern Melbourne. The survey will not cover the following: 
+The survey will cover students within Wellington Secondary College, which are aged between 12 to 20. It is likely that the students live in south-eastern Melbourne. The survey will not cover the following: 
 * Students outside Wellington Secondary College
 * People who are above 18 years old
 * Laptops, desktops, tablets or any devices that aren’t a smartphone
+
+The survey can either be done online using Google Forms or on paper, whichever the participant prefers. The survey is available in the [credits and references](/credits/) page. 
 
 For secondary data, care has been taken to ensure the accuracy and timeliness of the data. Due to the rapidly changing nature of the data, I only consider datasets from the past five years, as anything older than that is not very relevant to today's situations. 
 
