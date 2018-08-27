@@ -25,16 +25,14 @@ The research will contain both qualitative and quantitative data. The quantitati
 
 ## Constraints
 There are some constraints and limitations while doing this research. This mainly affects the primary data but also the secondary data to some extent. Here are the constraints:
-* **Limited time:** The time given to this research is very limited. Only 2.5 months is given to collect, process and analyse the data. The actual time spent on this research is less than that as I also have other school work to do. This is probably the biggest constraint as it affects many other aspects, such as sample size. 
-
+* **Limited time:** The time given to this research is very limited. Only 2.5 months is given to collect, process and analyse the data. The actual time spent on this research is less than that as I also have other school work to do. This is probably the biggest constraint as it affects many other aspects, such as sample size.
+* **Cost:** The research aims to spend as little money as possible. However, this results in lower quality data, especially secondary data as many of the datasets are locked behind a paywall.
 * **Limited sample size:** Due to limited time described above, only a small amount of people were able to be surveyed, this will affect the accuracy of the primary data. By comparison, surveys from secondary data usually have thousands of participants, increasing the accuracy of the data. 
-
-* **Lack of variety in the dataset:** The primary data only surveys students from Wellington SC, which is a small subset of people living in Melbourne metro area. In contrast, secondary data covers a much larger geographical area over a wider range of age. 
-
+* **Lack of variety in the dataset:** The primary data only surveys students from Wellington SC, which is a small subset of people living in Melbourne metro area. In contrast, secondary data covers a much larger geographical area over a wider range of age. However, while secondary datasets cover larger age range, almost none of them cover people under the age of 18. This will make comparison between the two data more difficult as one age group may not be representative of the other. 
 * **Level of expertise:** While every effort has been made to give the best analysis possible, please note that I am not an expert in the field. 
 
 ## Methodology
-For this research, I collected the data from primary and secondary sources. Primary data is collected through surveys while secondary dta is collected from datasets found on the internet. 
+For this research, I collected the data from primary and secondary sources. Primary data is collected through surveys while secondary data is collected from datasets found on the internet. 
 
 The survey will cover students within Wellington Secondary College, which are aged between 12 to 20. It is likely that the students live in south-eastern Melbourne. The survey will not cover the following: 
 * Students outside Wellington Secondary College
@@ -43,6 +41,6 @@ The survey will cover students within Wellington Secondary College, which are ag
 
 The survey can either be done online using Google Forms or on paper, whichever the participant prefers. You can view the survey [here.](https://drive.google.com/drive/folders/1cDfRYZS7AWSDVG41EoVjWjDL_klmx55n?usp=sharing)
 
-For secondary data, care has been taken to ensure the accuracy and timeliness of the data. Due to the rapidly changing nature of the data, I only consider datasets from the past five years, as anything older than that is not very relevant to today's situations. 
+For secondary data, care has been taken to ensure the accuracy and timeliness of the data. Due to the rapidly changing nature of the data, I only consider datasets from the past five years, as anything older than that is not very relevant to today's situations. Furthermore, I focused on data from the US and other western countries as they are demographically and culturally similar to Australia. 
 
 To see all of the secondary data, see the [credits and references](/mobile-phones-and-gender/credits/) page. 

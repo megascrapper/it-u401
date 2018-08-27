@@ -30,5 +30,9 @@ Every participant of the survey is given a consent form or page, where participa
 [https://staff.unimelb.edu.au/research/ethics-integrity/human-ethics/forms-templates-examples](https://staff.unimelb.edu.au/research/ethics-integrity/human-ethics/forms-templates-examples) 
 
 ### Data visualisation
-The following site gives a good inspiration on data visualisation used on this site.
+The following site gives a good inspiration on data visualisation used on this site. It contains what to do or what not to do when creating data visualisation. 
 [http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/](http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/)
+
+### Site theme
+Here is the link to the theme used on the site. 
+[https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/)
