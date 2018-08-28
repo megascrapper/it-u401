@@ -34,5 +34,5 @@ The following site gives a good inspiration on data visualisation used on this s
 [http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/](http://ibm-design-language.mybluemix.net/design/language/experience/data-visualization/visualization/)
 
 ### Site theme
-Here is the link to the theme used on the site. 
+the theme used for this site is Minimal Mistakes Jekyll Theme 4.12.1 by Michael Rose, available at
 [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/)
