@@ -34,6 +34,7 @@ From the figures above, it shows that within Wellington Secondary College, femal
 
 ### Why people chose different phones?
 To find out why does female more likely to use iOS devices, I asked the participants why they chose the particular platform. Here are the some of the results:
+
 |Why people choose iOS|Why people choose Android|
 |---------------------|-------------------------|
 |"I like the simplicity and speed of iOS, also all of my family are iPhone users"|"More customisation options"|
