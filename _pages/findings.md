@@ -28,7 +28,7 @@ All of the participants have a mobile phone, and overall about 2/3 of them use i
 
 However, when gender is taken into consideration, it becomes clear that women tend to own an iPhone more than men. While male participants are still mostly dominated by iOS users, it is lower than the overall percentage with 61% of participants using iPhones. On the other hand, 75% of female participants use iPhones while only 25% of females use Android phones. 
 
-{% include figure image_path="/assets/images/phone-os-gender.png" alt="A pie chart on survey mobile phone OS by gender." %}
+{% include figure image_path="/assets/images/phone-os-gender.png" alt="A pie chart on survey mobile phone OS by gender. On the male pie chart, iOS (blue) is 61.11% while Android (green) is 38.89%. On the female chart, iOS is 75% and Android is 25%." %}
 
 From the figures above, it shows that within Wellington Secondary College, females are more likely to use an iPhone than male. 
 
@@ -55,12 +55,12 @@ The primary data has many limitations and issues, namely the limited sample size
 
 Examples of secondary data saying that iPhones are used more by men:
 * A news report by eMarketer in 2013 reported that male and younger users favour Android over iOS, with 26% of women using iPhones, compared to 24% for men. The news article used a survey from the Pew Internet & American Life Project.
-{% include figure image_path="/assets/images/emarketer.png" alt="A bar graph showing mobile phone share by gender." caption="Source: [eMarketer](https://www.emarketer.com/Article/US-Smartphone-OS-Race-Still-Close-Men-Younger-Users-Favor-Android/1009961)" %} 
+{% include figure image_path="/assets/images/emarketer.png" alt="A bar graph showing mobile phone share by gender, titled "Smartphone market share in the US, 2013". On the iOS side (left), male (blue) is 24% while female (pink) is 26%. On the Android side, male is 31% and females are 26%." caption="Source: [eMarketer](https://www.emarketer.com/Article/US-Smartphone-OS-Race-Still-Close-Men-Younger-Users-Favor-Android/1009961)" %} 
 
 * Forbes ran an article where the author analysed a dataset from CIvicScience. He noted that people who preferred Android were 56% male and 44% female, which indicates a strong factor in gender. The author also noted that people who used Android devices are "more hard-core techies" and are "more comfortable with the more open but less polished Android user experience". This matches one of the stated reasons of why people chose Android, which is customisability.
 
 * Verto Analytics also reported that the install base of iPhones is larger among female users. It also stated that women chose iPhones because of its design and user experience. Meanwhile, men valued more variety and functions that Android offers. 
-{% include figure image_path="/assets/images/verto.png" alt="A bar graph showing mobile phone share by gender." caption="Source: [Verto Analytics](https://www.vertoanalytics.com/apple-iphone-ownership-driven-female-high-income-users/)" %} 
+{% include figure image_path="/assets/images/verto.png" alt="A bar graph showing mobile phone share by gender, the left graph is titled "Smartphone market share in the UK, 2015". On the iOS side (LHS), males are 44% and females are 56%, while On Android side (RHS), males are 54% and females are 46%. The right graph is titled "Smartphone market share in the UK, 2017". On the iOS side (LHS), males are 34% and females are 41%, while On Android side (centre), males are 60% and females are 40%. The "other" side (RHS) has 3% for male and female." caption="Source: [Verto Analytics](https://www.vertoanalytics.com/apple-iphone-ownership-driven-female-high-income-users/)" %} 
 
 Other news sources that reported higher iPhone usage among female are...
 *The Telegraph (which uses data from  GlobalWebIndex),
@@ -69,5 +69,5 @@ Other news sources that reported higher iPhone usage among female are...
 {% include figure image_path="/assets/images/statista.png" alt="Two bar graphs showing mobile phone share by gender across different years." caption="Source: [Statista](https://www.statista.com/statistics/513995/smartphone-user-gender-distribution-by-os/)" %} 
 
 While there are multiple sources that reported higher iPhone usage among females, this is not the case with all sources. This is shown in a market research by Fluent in 2016, which shows that 26% of female respondents are an iOS user, slightly less 28.3% of males that uses iOS. 
-{% include figure image_path="/assets/images/fluent.png" alt="A bar graph showing mobile phone share by gender." caption="Source: [Fluent](http://www.fluentco.com/wp-content/uploads/2016/01/Fluent2_DevicesandDemographics_2016.pdf)" %} 
+{% include figure image_path="/assets/images/fluent.png" alt="A bar graph showing mobile phone share by gender. " caption="Source: [Fluent](http://www.fluentco.com/wp-content/uploads/2016/01/Fluent2_DevicesandDemographics_2016.pdf)" %} 
 Despite that, I am fairly confident that the statistic above is an outlier and secondary sources matches the primary data that I collected. 
