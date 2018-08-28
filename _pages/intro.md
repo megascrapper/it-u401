@@ -39,7 +39,7 @@ The survey will cover students within Wellington Secondary College, which are ag
 * People who are above 18 years old
 * Laptops, desktops, tablets or any devices that aren’t a smartphone
 
-The survey can either be done online using Google Forms or on paper, whichever the participant prefers. You can view the survey [here.](https://drive.google.com/drive/folders/1cDfRYZS7AWSDVG41EoVjWjDL_klmx55n?usp=sharing)
+The survey can either be done online using Google Forms or on paper, whichever the participant prefers. If you want to participate the survey online, you can do so [here.](https://goo.gl/forms/dChbHMABtrimsD6e2) If you prefer to do it online, you can download and print the paper form [here.](https://drive.google.com/file/d/1-tKZlN97bRbSSadorPfcVEmBLO33P-xh/view?usp=sharing)
 
 For secondary data, care has been taken to ensure the accuracy and timeliness of the data. Due to the rapidly changing nature of the data, I only consider datasets from the past five years, as anything older than that is not very relevant to today's situations. Furthermore, I focused on data from the US and other western countries as they are demographically and culturally similar to Australia. 
 
