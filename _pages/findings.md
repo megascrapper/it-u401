@@ -12,7 +12,7 @@ Using the techniques described in the [previous page](/mobile-phones-and-gender/
 ## Primary data
 The survey is conducted from 30th of April to May 11th 2018. There are 35 participants in the survey, 18 of them were male and 16 of them were female.
 
-{% include figure image_path="/assets/images/gender.png" alt="A pie chart on gender. Male: 52.94, Female: 47.06%" %} 
+{% include figure image_path="/assets/images/gender.png" alt="A pie chart on gender. Male: 52.94%, Female: 47.06%" %} 
 
 All participants are between years 10 and 12, which is between the age of 15 to 18.
 
