@@ -16,4 +16,4 @@ While I concluded that there is a difference in mobile phone usage share across 
 ## What next?
 If you managed to get this far, congratulations!
 
-Don't forget to look at the [references](/mobile-phones-and-gender/credits/) and/or [submit your feedback](/mobile-phones-and-gender/credits/)
+Don't forget to look at the [references](/mobile-phones-and-gender/credits/) and/or [submit your feedback](/mobile-phones-and-gender/feedback/)
