@@ -6,8 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: https://www.geo.tv/assets/uploads/updates/2017-07-31/151772_8918733_updates.jpg
-  cta_label: "Get Started"
-  cta_url: "/#feature_row"
   caption: "[Image source](https://www.geo.tv/latest/151772-mobile-phone-users-cross-1405-million-in-pakistan)"
 excerpt: "This website tests the hypothesis whether females are more likely to own an iPhone than males."
 layout: splash

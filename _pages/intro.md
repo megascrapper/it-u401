@@ -7,7 +7,7 @@ sidebar:
     nav: "it-u4o1"
 toc: true
 ---
-{% include figure image_path="https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive/_jcr_content/par/textimage/image.img.jpg/1517604468243.jpg" alt="People sitting in line, using their phones" caption="Image source: https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive.html" %} 
+{% include figure image_path="https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive/_jcr_content/par/textimage/image.img.jpg/1517604468243.jpg" alt="People sitting in line, using their phones" caption="[Image source](https://www.cancer.org/latest-news/updated-cell-phone-study-findings-still-inconclusive.html)" %} 
 
 Android vs iOS, they're one of the biggest battles of the 21st century. You may notice this daily by people arguing which phone is the best. I have wondered, however, does this split the same across different genders? Does one gender prefer one phone more than another? I predicted that if you are female, then you are more likely to own an iPhone. I also wondered whether the type of phone used is related to the tech savviness of the owner. 
 
