@@ -42,3 +42,5 @@ megascrapper,
 91 Police Rd, Mulgrave VIC 3170
 
 E-mail: [privacy-policy@megascrapper.github.io](mailto:privacy-policy@megascrapper.github.io)
+
+[Back to top](#top)

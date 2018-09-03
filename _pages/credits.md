@@ -36,3 +36,5 @@ The following site gives a good inspiration on data visualisation used on this s
 ### Site theme
 the theme used for this site is "Minimal Mistakes Jekyll Theme 4.12.1" by Michael Rose, available at
 [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/)
+
+[Back to top](#top)
