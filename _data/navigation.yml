@@ -1,10 +1,13 @@
 # main links
 main:
-
   - title: "Introduction"
     url: /intro/
   - title: "Findings"
-    url: /findings/
+    children:
+      - title: "Primary data"
+        url: /primary-data/
+      - title: "Secondary data"
+        url: /secondary-data/
   - title: "Conclusion"
     url: /conclusion/
   - title: "Credits and references"
