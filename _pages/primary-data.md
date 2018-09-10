@@ -50,7 +50,7 @@ From the table <!-- and video --> above, we can see that some participants use a
 
 From the survey data, there doesn't seem any differences in reasons across genders. 
 
-## Primary data conlcusion
+## Primary data conclusion
 From the primary data above, it is clear that females are more likely to use iPhones while males prefer Android devices.
 
 [Next page: secondary data](/mobile-phones-and-gender/secondary-data/)
