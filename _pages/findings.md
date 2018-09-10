@@ -27,7 +27,7 @@ feature_row2:
     alt: "Splash image for secondary data: A person holding a pencil, pointing a  page with some graphs on a table."
     title: "Secondary data"
     excerpt: "This page contains findings from external sources and datasets to compare with my primary results."
-    url: "/credits/"
+    url: "/secondary-data/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
