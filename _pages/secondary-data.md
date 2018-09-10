@@ -31,4 +31,6 @@ While there are multiple sources that reported higher iPhone usage among females
 ### Secondary data conclusion
 From these findings, it is clear that in most cases women generally prefers iOS devices while men tend to prefer Android devices, which matches with my hypothesis and my primary data, and I am fairly confident that the data that said otherwise is an outlier.
 
+To see the references fot the secondary data, see [credits and references](/mobile-phones-and-gender/credits/) page.
+
 [Back to top](#top)
