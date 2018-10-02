@@ -43,10 +43,11 @@ To find out why does female more likely to use iOS devices, I asked the particip
 |"better quality"|"Because I have a Samsung"|
 |"on an iPhone therefore automatically iOS"|"clean and customisable"|
 
-<!-- The video below shows why people chose one smartphone platform over another.  -->
-<!-- TODO: video -->
+The video below shows why people chose one smartphone platform over another.
+{% include video id="t7l-8AdZmBI" provider="youtube" %}
 
-From the table <!-- and video --> above, we can see that some participants use a particular phone not out of choice, but because either it's a hand-me down, because their family are in one ecosystem, or simply because that's what the phone came with. Out of those who prefer one platform over another, they cited speed, simplicity, customisation and familiarity.
+
+From the table and video above, we can see that some participants use a particular phone not out of choice, but because either it's a hand-me down, because their family are in one ecosystem, or simply because that's what the phone came with. Out of those who prefer one platform over another, they cited speed, simplicity, customisation and familiarity.
 
 From the survey data, there doesn't seem any differences in reasons across genders.
 
