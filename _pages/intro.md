@@ -43,6 +43,6 @@ The survey can either be done online using Google Forms or on paper, whichever t
 
 For secondary data, care has been taken to ensure the accuracy and timeliness of the data. Due to the rapidly changing nature of the data, I only consider datasets from the past five years, as anything older than that is not very relevant to today's situations. Furthermore, I focused on data from the US and other western countries as they are demographically and culturally similar to Australia.
 
-To see all of the findings from secondary data, see the [secondary data page](/mobile-phones-and-gender/secondary data/) page.
+To see all of the findings from secondary data, see the [secondary data page](/mobile-phones-and-gender/secondary-data/) page.
 
 [Back to top](#top)

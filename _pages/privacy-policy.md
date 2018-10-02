@@ -1,7 +1,7 @@
 ---
 permalink: /privacy-policy/
 title: "Privacy policy"
-last_modified_at: 2018-07-30
+last_modified_at: 2018-10-02
 excerpt: "For all of the legal stuff"
 toc: true
 ---
