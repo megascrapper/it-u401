@@ -1,7 +1,7 @@
 ---
 permalink: /conclusion/
 title: "Conclusion"
-# last_modified_at: 
+last_modified_at: 2018-09-03
 excerpt: "Introduction about the survey"
 sidebar:
     nav: "it-u4o1"

@@ -1,7 +1,7 @@
 ---
 permalink: /credits/
 title: "Credits and references"
-# last_modified_at: 
+last_modified_at: 2018-09-03
 excerpt: "I want to thank all of these sources for making this work possible."
 sidebar:
     nav: "it-u4o1"

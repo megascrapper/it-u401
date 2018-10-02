@@ -1,7 +1,7 @@
 ---
 permalink: /intro/
 title: "Introduction"
-# last_modified_at:
+last_modified_at: 2018-09-10
 excerpt: "Introduction about the research"
 sidebar:
     nav: "it-u4o1"
