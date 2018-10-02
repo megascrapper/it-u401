@@ -10,7 +10,5 @@ main:
     url: /credits/
   - title: "Feedback"
     url: /feedback/
-  - title: "About"
-    url: /about/
   - title: "Privacy"
     url: /privacy-policy/
