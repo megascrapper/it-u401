@@ -7,7 +7,7 @@ sidebar:
     nav: "it-u4o1"
 toc: true
 ---
-{% include figure image_path="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2016/05/03112908/micro-management-magnifying-glass-feat.jpg" alt="A person holding a magnifying glass on his left hand and a pen on the right hand, writing into the clipboard." caption="[Image source](https://www.thefire.org/unm-findings-letter-the-growing-micromanagement-of-title-ix-compliance/)" %}
+{% include figure image_path="https://d28htnjz2elwuj.cloudfront.net/wp-content/uploads/2016/05/03112908/micro-management-magnifying-glass-feat.jpg" alt="A person holding a magnifying glass on his left hand and a pen on the right hand, writing into the clipboard." caption="Image courtesy of [FIRE](https://www.thefire.org/unm-findings-letter-the-growing-micromanagement-of-title-ix-compliance/)" %}
 Using the techniques described in the [previous page](/mobile-phones-and-gender/intro/), Here is the data that is collected. Specifically, this page discusses the primary data collected.
 
 The survey is conducted from 30th of April to May 11th 2018. There are 35 participants in the survey, 18 of them were male and 16 of them were female.

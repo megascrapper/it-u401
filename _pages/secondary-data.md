@@ -7,7 +7,7 @@ sidebar:
     nav: "it-u4o1"
 toc: true
 ---
-{% include figure image_path="http://harcdata.org/wp-content/uploads/2016/10/secondary-data-image.png" alt="An image showing books, phones, boards, computers and more." caption="[Image source](http://harcdata.org/secondary-data/)" %}
+{% include figure image_path="http://harcdata.org/wp-content/uploads/2016/10/secondary-data-image.png" alt="An image showing books, phones, boards, computers and more." caption="Image courtesy of [HARC](http://harcdata.org/secondary-data/)" %}
 The [primary data](/mobile-phones-and-gender/primary-data/) has many limitations and issues, namely the limited sample size and coverage. Therefore to test whether the hypothesis is proven a secondary data is needed. All of the data came from either the US or the UK and made between 2013 and 2017. I collected 8 different sources of secondary data from the internet about mobile phone demographics, ranging from premade charts to news articles. Out of the 8 sources, 7 of them stated that iPhones are used more by men and women.
 
 Examples of secondary data saying that iPhones are used more by men:
