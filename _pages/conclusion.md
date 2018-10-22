@@ -14,7 +14,7 @@ From the [findings page](https://megascrapper.github.io/mobile-phones-and-gender
 In order to support my conclusion, I used a data that is authoritative, relevant and timely. The primary data ticks all of the points above, as I am the one who collected the data and it is conducted only a few months prior to making this site.
 
 {% include figure image_path="/assets/images/phone-os-gender.png" alt="A pie chart on survey mobile phone OS by gender. On the male pie chart, iOS (blue) is 61.11% while Android (green) is 38.89%. On the female chart, iOS is 75% and Android is 25%." %}
-<!--
+
 All of the secondary data used either came from a statistics organisation, or sites that uses data from those statistics organisations. Statistics organisations are very authoritative as they specialises in datasets. I have carefully selected my sources so that they are relevant and timely.
 
 Here is a chart from one of the statistics organisation.
@@ -22,7 +22,7 @@ Here is a chart from one of the statistics organisation.
 
 Here is an example of a chart from a news site, which sourced their data from [Pew Research](http://www.pew.org/), a major research organisation.
 {% include figure image_path="/assets/images/emarketer.png" alt="A bar graph showing mobile phone share by gender, titled 'Smartphone market share in the US, 2013'. On the ale side (left), iOS (blue) is 24% while Android (green) is 31%. On the female side, iOS is 26% and Android is 26%." caption="Source: [eMarketer](https://www.emarketer.com/Article/US-Smartphone-OS-Race-Still-Close-Men-Younger-Users-Favor-Android/1009961)" %}
--->
+
 Both the primary data and secondary data above demonstrates that females are more likely to use an iPhone than males. Therefore, my hypothesis that females are more likely to use iPhones has been proven to be true. However, there is no solid proof that there is a difference in reasons why people chose a phone between males and females.
 
 While I concluded that there is a difference in mobile phone usage share across genders, there are many variables and limitations associated with this research. If I have been given more time and have better secondary datasets, the results might have been different.
