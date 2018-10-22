@@ -1,7 +1,7 @@
 ---
 permalink: /conclusion/
 title: "Conclusion"
-last_modified_at: 2018-10-22
+last_modified_at: 2018-10-23
 excerpt: "Introduction about the survey"
 sidebar:
     nav: "it-u4o1"
@@ -30,7 +30,6 @@ From the charts above, as well as  almost all of the other sources that is found
 
 In conclusion, my hypothesis that females are more likely to use iPhones has been proven to be true.
 
-From the
 ## Limitations
 While I concluded that there is a difference in mobile phone usage share across genders, there are many variables and limitations associated with this research. If I have been given more time and have better secondary datasets, the results might have been different.
 
