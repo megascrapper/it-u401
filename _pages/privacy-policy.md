@@ -13,7 +13,7 @@ I am committed to providing you with the best possible customer service experien
 
 ## Collection of your personal information
 
-There are many aspects of the site which can be viewed without providing personal information, however, for access to the comments submission features you are required to submit personally identifiable information. This may include but not limited to a unique username and email address. 
+There are many aspects of the site which can be viewed without providing personal information, however, for access to the comments submission features you are required to submit personally identifiable information. This may include but not limited to a unique username and email address.
 
 ## Sharing of your personal information
 
@@ -44,6 +44,6 @@ Akbar Fadiansyah,
 E-mail: [privacy-policy@megascrapper.github.io](mailto:privacy-policy@megascrapper.github.io)
 
 ## This site and GitHub
-Please note that this website is hosted on GitHub. You should also see [GitHub's privacy policy page](https://help.github.com/articles/github-privacy-statement/) for more information. 
+Please note that this website is hosted on GitHub. You should also see [GitHub's privacy policy page](https://help.github.com/articles/github-privacy-statement/) for more information.
 
 [Back to top](#top)
